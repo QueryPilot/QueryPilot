@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/github/downloads/QueryPilot/studio-app/total?style=for-the-badge" alt="Downloads">
   </a>
   <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/QueryPilot/studio-app?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/badge/license-Free%20for%20Non--Commercial-blue?style=for-the-badge" alt="License">
   </a>
 </p>
 
